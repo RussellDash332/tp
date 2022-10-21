@@ -13,4 +13,4 @@
 
 * For the detailed documentation of this project, see the **[JerylFypManager Product Website](https://ay2223s1-cs2103-f09-1.github.io/tp/UserGuide.html)**.
 
-* This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
+* This project is based on the FypManager-Level3 project created by the [SE-EDU initiative](https://se-education.org).
